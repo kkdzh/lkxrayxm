@@ -1,0 +1,14 @@
+{
+    "name": "vdrfer",
+    "description": "erger",
+    "logo":"erge",
+    "keywords": ["wgew"],
+    "env": {
+        "UUID": {
+            "description": "Xray UUID,随机生成uuid的网站-> (https://www.uuidgenerator.net/) ",
+            "required": true        
+        }
+    },
+    "repository": "https://github.com/kkdzh/lkxrayxm",
+    "stack": "container"
+}
